@@ -1,0 +1,7 @@
+[requires]
+boost/1.71.0@conan/stable
+bzip2/1.0.6@conan/stable
+imagemagick/7.0.8-44@bincrafters/stable
+
+[generators]
+cmake
